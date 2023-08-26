@@ -1,0 +1,14 @@
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\bin\Debug\net7.0\DevAcademyTest.exe
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\bin\Debug\net7.0\DevAcademyTest.deps.json
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\bin\Debug\net7.0\DevAcademyTest.runtimeconfig.json
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\bin\Debug\net7.0\DevAcademyTest.dll
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\bin\Debug\net7.0\DevAcademyTest.pdb
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.AssemblyInfoInputs.cache
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.AssemblyInfo.cs
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.csproj.CoreCompileInputs.cache
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.dll
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\refint\DevAcademyTest.dll
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.pdb
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\DevAcademyTest.genruntimeconfig.cache
+C:\Users\henry\Projects\C-Sharp\DevAcademyTest\obj\Debug\net7.0\ref\DevAcademyTest.dll
